@@ -1,0 +1,68 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-family: 'Lato', sans-serif;
+}
+
+/*head top*/
+header{
+	background-color: #F6F9F9;
+	width: 100%;
+	float: left;
+}
+header img{
+	display: inline-block;
+	float: left;
+	padding: 10px 5px 0px 0px;
+}
+header h1{
+	float: left;
+	font-size: 30pt;
+	color: black;
+}
+.banar{
+	background: url(../image/background01.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	float: left;
+	text-align: center;
+}
+.banar h1{
+	font-size: 100pt;
+	text-align: center;
+	color: white;
+}
+.bar{
+	width: 40%;
+	text-align: center;
+	border-bottom: 2px solid #15A4FA;
+	margin: 30px 0px;
+	margin: 0 auto;
+}
+.banar p{
+	font-size: 20pt;
+	color: white;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 60px;
+
+}
+.button{
+	padding:15px 30px;
+	background-color: transparent;
+	border:2px solid #15A4FA;
+	border-radius: 5px;
+	text-align: center;
+	font-size: 18pt;
+	color: white;
+	margin-bottom: 100px;
+}
+.fa-angle-down{
+	color: white;
+	margin-bottom: 80px;
+	display: block;
+	font-size: 35pt;
+}
